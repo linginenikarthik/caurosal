@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caurosal/static/css/main.0ca1c101.css",
+    "main.js": "/caurosal/static/js/main.98c69075.js",
+    "static/js/592.d12dd381.chunk.js": "/caurosal/static/js/592.d12dd381.chunk.js",
+    "index.html": "/caurosal/index.html",
+    "main.0ca1c101.css.map": "/caurosal/static/css/main.0ca1c101.css.map",
+    "main.98c69075.js.map": "/caurosal/static/js/main.98c69075.js.map",
+    "592.d12dd381.chunk.js.map": "/caurosal/static/js/592.d12dd381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca1c101.css",
+    "static/js/main.98c69075.js"
+  ]
+}
